@@ -6,6 +6,17 @@ Este repositório foi criado para facilitar o andamento do curso Sistemas para I
 
 Organizado por Jeremias Moraes
 
+# Calendário 2019-2
+Segue o link para o Calendário de 2019-2
+
+http://bit.ly/Calendario-UNIDBSCO-2019-2
+
+Abaixo alguns Deadlines importantes:
+
+10/09 - Entrega estudo de Caso
+14/09 - Entrega Prova Eletrônica
+21/09 - Prova Presencial
+05/10 - Prova Final
 
 # Materiais
 
