@@ -40,5 +40,16 @@ secretaria@dombosco.sebsa.com.br
 Para questões acadêmicas como provas, notas e atividades:
 suporteacademico@unidombosco.edu.br
 
-Para problemas com a plataforma, dificuldades em acessar algum sistema, como a biblioteca, etc.:
- suportetecnico@unidombosco.edu.br
+Para problemas com a plataforma, dificuldades em acessar algum sistema, como a biblioteca, etc.: 
+
+suportetecnico@unidombosco.edu.br
+
+# Aplicativo Canvas - Universidade Dom Bosco
+
+A plataforma Canvas da Universidade Dom Bosco também está disponível para Android e iOS
+
+Android: https://play.google.com/store/apps/details?id=com.instructure.candroid
+
+iOS: https://apps.apple.com/us/app/canvas-student/id480883488
+ 
+ 
