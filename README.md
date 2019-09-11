@@ -24,7 +24,7 @@ Abaixo alguns Deadlines importantes:
 # Agenda Google
 Link para agenda do Google:
 
-http://bit.ly/Dom-Bosco-Agenda
+http://bit.ly/UNIDBSCO-Agenda
 
 # Materiais
 
