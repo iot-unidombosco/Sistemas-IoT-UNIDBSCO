@@ -36,18 +36,7 @@ http://bit.ly/Manual-do-Aluno
 
 # E-mails Importantes
 
-Para questões financeiras, boletos em atraso, negociações e outros detalhes:
-financeiro@dombosco.sebsa.com.br
-
-Para questões administrativas de ordem acadêmica, como equivalência de matéria, declarações especiais, certificações, entre outras:
-secretaria@dombosco.sebsa.com.br
-
-Para questões acadêmicas como provas, notas e atividades:
-suporteacademico@unidombosco.edu.br
-
-Para problemas com a plataforma, dificuldades em acessar algum sistema, como a biblioteca, etc.: 
-
-suportetecnico@unidombosco.edu.br
+Todos os e-mails foram desativados e o suporte se dará pela plataforma Web Aluno na seção de protocolos.
 
 # Aplicativo Canvas - Universidade Dom Bosco
 
