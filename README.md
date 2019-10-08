@@ -9,7 +9,7 @@ Organizado por Jeremias Moraes
 # Calendário 2019-2
 Segue o link para o Calendário de 2019-2
 
-http://bit.ly/Calendario-UNIDBSCO-2019-2
+http://bit.ly/Cronograma-UNIDBSCO-2019-2
 
 Abaixo alguns Deadlines importantes:
 
