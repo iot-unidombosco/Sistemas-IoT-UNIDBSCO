@@ -13,13 +13,13 @@ http://bit.ly/Calendario-UNIDBSCO-2019-2
 
 Abaixo alguns Deadlines importantes:
 
-10/09 - Entrega Estudo de Caso
+12/11 - Entrega Estudo de Caso
 
-14/09 - Entrega Prova Eletrônica
+23/11 - Entrega Prova Eletrônica
 
-21/09 - Prova Presencial
+30/11 - Prova Presencial
 
-05/10 - Prova Final
+14/12 - Prova Final
 
 # Agenda Google
 Link para agenda do Google:
