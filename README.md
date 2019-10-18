@@ -6,6 +6,13 @@ Este repositório foi criado para facilitar o andamento do curso Sistemas para I
 
 Organizado por Jeremias Moraes
 
+# FAQ
+Em virtude de grande volume de dúvidas a Universidade Dom Bosco compilou algumas dúvidas em um F.A.Q (Frequently Asked Questions).
+Segue o link para acessar o FAQ:
+
+http://bit.ly/FAQ-UNIDBSCO
+
+
 # Calendário 2019-2
 Segue o link para o Calendário de 2019-2
 
