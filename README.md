@@ -37,6 +37,10 @@ http://bit.ly/UNIDBSCO-Agenda
 
 http://bit.ly/Materiais-IoT
 
+# Gitbook - Materiais Extras
+
+http://bit.ly/Gitbook-UNIDBSCO
+
 # Manual do Aluno
 
 http://bit.ly/Manual-do-Aluno
