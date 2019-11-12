@@ -39,7 +39,7 @@ http://bit.ly/Materiais-IoT
 
 # Gitbook - Materiais Extras
 
-http://bit.ly/Gitbook-UNIDBSCO
+https://moraesjeremias.gitbook.io/sistemas-iot/
 
 # Manual do Aluno
 
