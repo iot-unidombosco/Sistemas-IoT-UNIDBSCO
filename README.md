@@ -29,15 +29,17 @@ Abaixo alguns Deadlines importantes:
 14/12 - Prova Final
 
 # Agenda Google
-Link para agenda do Google:
+Link para agenda do Google! Sincronize as atividades em seu celular, notebook e e-mail!
 
 http://bit.ly/UNIDBSCO-Agenda
 
 # Materiais
+Slides, Livros, Podcasts, Video-aulas e Materiais Complementares:
 
 http://bit.ly/Materiais-IoT
 
 # Gitbook - Materiais Extras
+Conteúdos pertinentes com as disciplinas
 
 https://moraesjeremias.gitbook.io/sistemas-iot/
 
@@ -48,6 +50,12 @@ http://bit.ly/Manual-do-Aluno
 # E-mails Importantes
 
 Todos os e-mails foram desativados e o suporte se dará pela plataforma Web Aluno na seção de protocolos.
+
+# Contatos
+O Grupo de Ciência de Dados e Inteligência Artificial compilou contatos de alguns professores e coordenadores.
+Muitos se aplicam também para o Curso de Sistemas para Internet - IoT
+
+https://pastebin.com/dFX9drrU
 
 # Aplicativo Canvas - Universidade Dom Bosco
 
