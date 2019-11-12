@@ -39,7 +39,7 @@ Slides, Livros, Podcasts, Video-aulas e Materiais Complementares:
 http://bit.ly/Materiais-IoT
 
 # Gitbook - Materiais Extras
-Conteúdos pertinentes com as disciplinas
+Conteúdos pertinentes às disciplinas
 
 https://moraesjeremias.gitbook.io/sistemas-iot/
 
