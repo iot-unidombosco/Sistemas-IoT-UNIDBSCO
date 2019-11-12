@@ -52,7 +52,7 @@ http://bit.ly/Manual-do-Aluno
 Todos os e-mails foram desativados e o suporte se dará pela plataforma Web Aluno na seção de protocolos.
 
 # Contatos
-O Grupo de Ciência de Dados e Inteligência Artificial compilou contatos de alguns professores e coordenadores.
+O grupo do curso Ciência de Dados e Inteligência Artificial compilou contatos de alguns professores e coordenadores.
 Muitos se aplicam também para o Curso de Sistemas para Internet - IoT
 
 https://pastebin.com/dFX9drrU
