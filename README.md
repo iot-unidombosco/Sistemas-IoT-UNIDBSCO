@@ -36,7 +36,7 @@ http://bit.ly/UNIDBSCO-Agenda
 # Materiais
 Slides, Livros, Podcasts, Video-aulas e Materiais Complementares:
 
-http://bit.ly/Materiais-IoT
+http://bit.ly/Materiais-IOT
 
 # Gitbook - Materiais Extras
 Conteúdos pertinentes às disciplinas
