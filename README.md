@@ -13,20 +13,20 @@ Segue o link para acessar o FAQ:
 http://bit.ly/FAQ-UNIDBSCO
 
 
-# Calendário 2019-2
-Segue o link para o Calendário de 2019-2
+# Calendário 2020-1
+Segue o link para o Calendário de 2020
 
-http://bit.ly/Cronograma-UNIDBSCO-2019-2
+http://bit.ly/Cronograma-UNIDBSCO-2020
 
 Abaixo alguns Deadlines importantes:
 
-20/11 - Entrega Estudo de Caso
+09/04 - Entrega Estudo de Caso
 
-23/11 - Entrega Prova Eletrônica
+30/04 - Entrega Prova Eletrônica
 
-30/11 - Prova Presencial
+18/04 - Prova Presencial
 
-14/12 - Prova Final
+02/05 - Prova Final
 
 # Agenda Google
 Link para agenda do Google! Sincronize as atividades em seu celular, notebook e e-mail!
