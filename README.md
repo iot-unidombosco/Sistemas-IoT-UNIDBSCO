@@ -12,6 +12,12 @@ Segue o link para acessar o FAQ:
 
 http://bit.ly/FAQ-UNIDBSCO
 
+# Matriz Curricular
+
+Acesso para matriz curricular do curso Ciência de Dados e Inteligência Artificial:
+
+https://bit.ly/matriz-IOT
+
 
 # Calendário 2020-1
 Segue o link para o Calendário de 2020
