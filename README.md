@@ -26,13 +26,15 @@ http://bit.ly/Cronograma-UNIDBSCO-2021
 
 Abaixo alguns Deadlines importantes:
 
-09/04 - Entrega Estudo de Caso
+06/06 - Entrega Estudo de Caso
 
-25/04 - Entrega Prova Eletrônica
+13/06 - Entrega Prova Eletrônica
 
-17/04 - Prova Presencial
+19/06 - Prova Presencial
 
-01/05 - Prova Final
+19/06 - Projeto Integrador
+
+10/07 - Prova Final
 
 # Agenda Google
 Link para agenda do Google! Sincronize as atividades em seu celular, notebook e e-mail!
