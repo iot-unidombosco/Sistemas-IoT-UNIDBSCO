@@ -26,15 +26,13 @@ https://bit.ly/Cronograma-UNIDBSCO-2022
 
 Abaixo alguns Deadlines importantes:
 
-06/06 - Entrega Estudo de Caso
+10/04 - Entrega Estudo de Caso
 
-13/06 - Entrega Prova Eletrônica
+16/04 - Entrega Prova Eletrônica
 
-19/06 - Prova Presencial
+20/04 - Prova Presencial
 
-19/06 - Projeto Integrador
-
-10/07 - Prova Final
+07/05 - Prova Final
 
 # Agenda Google
 Link para agenda do Google! Sincronize as atividades em seu celular, notebook e e-mail!
