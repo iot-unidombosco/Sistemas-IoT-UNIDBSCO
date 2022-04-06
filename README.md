@@ -19,10 +19,10 @@ Acesso para matriz curricular do curso Ciência de Dados e Inteligência Artific
 http://bit.ly/matriz-IoT-2021
 
 
-# Calendário 2021
-Segue o link para o Calendário de 2021
+# Calendário 2022
+Segue o link para o Calendário de 2022
 
-http://bit.ly/Cronograma-UNIDBSCO-2021
+https://bit.ly/Cronograma-UNIDBSCO-2022
 
 Abaixo alguns Deadlines importantes:
 
