@@ -14,7 +14,8 @@ http://bit.ly/FAQ-UNIDBSCO
 
 # Matriz Curricular
 
-Acesso para matriz curricular do curso Ciência de Dados e Inteligência Artificial:
+Acesso para matriz curricular do CURSO SUPERIOR DE TECNOLOGIA EM SISTEMAS
+PARA INTERNET (ÊNFASE INTERNET DAS COISAS):
 
 http://bit.ly/matriz-IoT-2021
 
