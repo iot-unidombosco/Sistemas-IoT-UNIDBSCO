@@ -19,20 +19,35 @@ Acesso para matriz curricular do curso Ciência de Dados e Inteligência Artific
 http://bit.ly/matriz-IoT-2021
 
 
-# Calendário 2022
-Segue o link para o Calendário de 2022
+# Calendário 2023
 
-https://bit.ly/Cronograma-UNIDBSCO-2022
+2023 - 1º Módulo
+                		Abertura Fechamento
+Estudo de Caso  		13/mar 14/abr
+Avaliação Eletrônica	10/abr 22/abr
+Avaliação Presencial 	17/abr 22/abr
+Exame Final 		28/abr 05/mai
 
-Abaixo alguns Deadlines importantes:
+2023 - 2º Módulo
+				Abertura Fechamento
+Estudo de Caso 		15/mai 16/jun
+Avaliação Eletrônica 	13/jun 30/jun
+Avaliação Presencial 	26/jun 30/jun
+Exame Final 		07/jul 13/jul
 
-10/04 - Entrega Estudo de Caso
+2023 - 3º Módulo
+				Abertura Fechamento
+Estudo de Caso 		14/ago 15/set
+Avaliação Eletrônica 	11/set 22/set
+Avaliação Presencial 	18/set 22/set
+Exame Final 		28/set 05/out
 
-16/04 - Entrega Prova Eletrônica
-
-20/04 - Prova Presencial
-
-07/05 - Prova Final
+2023 - 4º Módulo
+				Abertura Fechamento
+Estudo de Caso 		16/out 17/nov
+Avaliação Eletrônica 	13/nov 01/dez
+Avaliação Presencial 	27/nov 01/dez
+Exame Final 		08/dez 14/dez
 
 # Agenda Google
 Link para agenda do Google! Sincronize as atividades em seu celular, notebook e e-mail!
